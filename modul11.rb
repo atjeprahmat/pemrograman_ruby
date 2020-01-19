@@ -13,11 +13,10 @@ end
 =end
 
 5.times do |nomor|
-    puts "Selamat datang di Pemrograman Ruby #{nomor}"
+    puts "Selamat datang di Pemrograman Ruby ke #{nomor}"
 end
 
-=begin
+
 5.times do |nomor|
-    puts "Selamat datang di Pemrograman Ruby #{nomor+1}"
+    puts "Selamat datang di Pemrograman Ruby -#{nomor+1}"
 end
-=end
