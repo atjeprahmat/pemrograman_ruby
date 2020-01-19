@@ -13,6 +13,7 @@ puts "pembagian #{hasil_pembagian}"
 puts "perkalian #{hasil_perkalian}"
 =end
 
+=begin
 bil1 = 10 #kalo float tinggal tambah . maka hasilnya ada . salah satu aja sih
 bil2 = 5
 
@@ -27,3 +28,7 @@ puts "pengurangan #{hasil_pengurangan}"
 puts "pembagian #{hasil_pembagian}"
 puts "perkalian #{hasil_perkalian}"
 puts "pemangkatan #{hasil_pemangkatan}"
+=end
+
+puts 7.odd? #ganjil = odd
+puts 7.even? #genal = even
