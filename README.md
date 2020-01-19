@@ -1,4 +1,5 @@
 # ruby
 
 Belajar pemrograman ruby per module
-Belajar lebih mudah dari bahasa pemrograman lain
+Ruby lebih mudah dari pemrograman lain, 
+Cocok untuk pemula yang sedang belajar pemrograman
