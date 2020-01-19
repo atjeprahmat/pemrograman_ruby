@@ -1,10 +1,3 @@
-=begin
-4.upto(9).each do |nomor|
-    puts "#{nomor}"
-    puts "Selamat Belajar"
-    puts 'Pemrograman Ruby'
-end
-=end
 
 4.upto(9).each do |nomor|
     puts "#{nomor}"
@@ -12,4 +5,12 @@ end
     puts 'Pemrograman Ruby'
 end
 
-puts "Nama saya Atjep".sub 'Atjep', 'Rahmat'
+puts "------------------------------------"
+
+9.downto(4).each do |nomor|
+    puts "#{nomor}"
+    puts "Selamat Belajar"
+    puts 'Pemrograman Ruby'
+end
+
+puts "+++++++++++++++++++++++++++++++++++++"
