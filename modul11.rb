@@ -5,4 +5,8 @@ end
 =end
 
 
-3.times {puts "Selamat Datang"}
+3.times {
+    puts "Selamat Datang"
+    puts "Pemrograman"
+    puts "Ruby"
+}
